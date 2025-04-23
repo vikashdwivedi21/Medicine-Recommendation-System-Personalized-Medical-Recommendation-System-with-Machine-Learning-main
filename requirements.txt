@@ -5,3 +5,4 @@ numpy
 matplotlib
 jupyter
 seaborn
+gunicorn==22.0.0
